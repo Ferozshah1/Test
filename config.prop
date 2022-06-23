@@ -1,0 +1,5 @@
+env=dev
+ip=10.11.11.11
+loc=/opt/dev/ibm
+user=devadmin
+password='dev@dmin'
