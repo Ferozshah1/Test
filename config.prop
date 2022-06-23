@@ -1,0 +1,6 @@
+env=test
+ip=10.12.12.12
+loc=/opt/uat/ibm
+user=uatadmin
+password='uat@dmin'
+
